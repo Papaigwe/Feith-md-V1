@@ -19,7 +19,7 @@
  
 _ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
 
-_If any query : wa.me/923096566451_
+_If any query : wa.me/24160338758_
 
 
 *_Update Alive Message by adding text with Alive_*
