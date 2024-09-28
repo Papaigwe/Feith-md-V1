@@ -1,5 +1,5 @@
 {
-               "name": "KING-MD",
+               "name": "feith-md V1",
                "version": "1.0.1",
                "description": "Multi Device WhatsApp bot by Naveed Dogar.",
                "main": "lib/client.js",
