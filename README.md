@@ -9,7 +9,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/ibrahimaitech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/papaigwe?label=Followers&style=social"></a>
-<a href="https://github.com/ibrahimaitech/BEGA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/papaigwe/Feith-md V1?&style=social"></a>
+<a href="https://github.com/papaigwe/Feith-md V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/papaigwe/Feith-md V1?&style=social"></a>
 <a href="https://github.com/papaigwe/Feith-md V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/papaigwe/Feith-md V1?style=social"></a>
 <a href="https://github.com/papaigwe/Feith-md V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/papaigwe/Feith-md V1?label=Watching&style=social"></a>
 </p>></a>                     
@@ -22,7 +22,7 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg) [**deploy here**](https://dashboard.heroku.com/new?button-url=https://github.com/papaigwe/Feith-md V1&template=https://github.com/papaigwe/Feith-md V1/tree/main)
+[**Deploy**](https://www.herokucdn.com/deploy/button.svg) 
 
 </p>
 
