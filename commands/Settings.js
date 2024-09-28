@@ -12,7 +12,7 @@ cmd({
             pattern: "settings",           
             desc: "(setting list).",
             category: "_help",
-            react: "⚙️",
+            react: "☄️",
             filename: __filename,
             use: '<text>',
 
@@ -40,12 +40,12 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg',
+                    url: 'https://i.imgur.com/ey3SjeU.jpeg',
                 },
 
                 caption: `
 
-*⦁──🎃𝙎𝙀𝙏𝙏𝙄𝙉𝙂 𝙇𝙄𝙎𝙏📍──⦁*
+*⦁──🦄𝙎𝙀𝙏𝙏𝙄𝙉𝙂🤵🏽‍♂️𝙇𝙄𝙎𝙏📍──⦁*
 
 1♻️➣ To put Antilink type :
 Eg:- .setvar ANTILINK:false
@@ -105,7 +105,7 @@ Eg:- .set THUMB_IMAGE:put image url
 Eg:- .setvar WORKTYPE:public/private
 
 
-©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝙆𝙄𝙉𝙂-𝙈𝘿
+©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 *Feith*-𝙈𝘿
 `,
 
                 footer: tlang().footer,
