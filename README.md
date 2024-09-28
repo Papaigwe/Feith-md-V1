@@ -93,7 +93,7 @@ Contributions to *FEITH-MD* are welcome! If you have ideas for new features, imp
 
 ## License
 
-The *BEGA-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The _**FEITH-MD**_ is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *FEITH-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by IGWE TECH
